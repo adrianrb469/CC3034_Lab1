@@ -29,5 +29,27 @@ ye shall be as gods
 R//:
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
 
+¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+R//:
+HELLO, I AM ELIZA.
 
+Hello.
+
+HI. WHAT SEEMS TO BE YOUR PROBLEM?
+
+What is life?
+
+THE INTERNET IS AN AMAZING SOURCE OF QUOTATIONS.
+
+What is life?
+
+I WONDER WHAT A COGNITIVE SCIENTIST'S ANSWER WOULD BE?
+
+What is life?
+
+WHAT LIES BEHIND THAT QUESTION?
+
+What is life?
+
+DO YOU ASK QUESTIONS TO AVOID TELLING ME ABOUT YOURSELF?
 
