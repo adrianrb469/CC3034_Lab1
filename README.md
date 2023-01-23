@@ -12,6 +12,17 @@ On a table is a nasty-looking knife
 R//:
 Hello World!
 
+¿Cómo pide auxilio una vaca paranoica?
+R//:
+ _______
+< Help! >
+ -------
+        \   ^__^
+         \  (@@)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
 
 
 
