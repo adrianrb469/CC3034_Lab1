@@ -24,5 +24,10 @@ R//:
                 ||     ||
 
 
+Traduzcan la siguiente frase a clave morse:
+ye shall be as gods
+R//:
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
 
 
